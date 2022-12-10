@@ -12,6 +12,7 @@ expect.extend({
 });
 
 describe('Non interactive test', () => {
+  // beforeEach(async () => {
   //   // Why do we need beforeEach?
   //   // https://github.com/callstack/react-native-testing-library/issues/390
   //   await act(async () => {
